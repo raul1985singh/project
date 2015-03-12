@@ -417,7 +417,16 @@ $url=$row['url'];
 $posts[] = array('title'=> $title, 'url'=> $url);
 
 } 
+/*
+while($row=mysql_fetch_array($result)) 
+{ 
+$title=$row['title']; 
+$url=$row['url']; 
 
+$posts[] = array('title'=> $title, 'url'=> $url);
+
+} 
+ */
 $response['posts'] = $posts;
 
 $fp = fopen('results.json', 'w');
