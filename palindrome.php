@@ -24,7 +24,10 @@ return $length;
 
 }
 
-
+function newtest(){
+    
+    echo "new test";
+}
 
 
 
