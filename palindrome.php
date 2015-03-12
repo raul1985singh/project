@@ -256,7 +256,20 @@ $space= "&nbsp;&nbsp;&nbsp;";
 11 16  15  6
 10 9   8   7
 */
+/*
+$space="&nbsp;";
+for($i=1;$i<=5;$i++){
 
+   for($sp=1;$sp<=5-$i;$sp++){
+          echo $space;
+          
+        }
+   for($j=0;$j<$i;$j++){
+       echo " * ";
+   }
+   echo "<br/>";
+
+}*/
 
 function matrix($numRows){
 $j=1;
