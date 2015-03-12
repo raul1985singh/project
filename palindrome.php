@@ -1,6 +1,6 @@
 <?php
 
-$string = 'niti';
+$string = 'nitin';
 
 
 $flag= 0;
