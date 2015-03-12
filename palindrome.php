@@ -24,7 +24,20 @@ return $length;
 
 }
 
-
+function mynewtest(){
+    
+    $test= "n";
+    
+    if($test=='n'){
+        
+        echo "Hi";
+    }
+    else{
+        
+        echo "Bye";
+    }
+    
+}
 
 
 
