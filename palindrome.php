@@ -15,6 +15,10 @@ while(1){
     if($string[$length]==''){
        break;
     }
+    else if($string[$length]=='2'){
+       $length++;
+       continue;
+    }
     else{
        $length++;
        continue;
