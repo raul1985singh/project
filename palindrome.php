@@ -9,17 +9,24 @@ $flag= 0;
 
 function strLength($string){
 $length=0;
-
+$lenth1=0;
 while(1){
+        if($length1==1){
 
+            echo "hello world";
+        }
     if($string[$length]==''){
        break;
     }
+
     else if($string[$length]=='2'){
        $length++;
        continue;
     }
     else{
+
+    else if($string[$length]!=''){
+
        $length++;
        continue;
     }
