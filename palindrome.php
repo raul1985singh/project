@@ -23,8 +23,6 @@ while(1){
        $length++;
        continue;
     }
-    else{
-
     else if($string[$length]!=''){
 
        $length++;
