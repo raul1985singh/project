@@ -25,6 +25,7 @@ return $length;
 }
 
 
+
 function mynewtest(){
     
     $test= "n";
@@ -43,6 +44,11 @@ function helloworld(){
     
     echo "hello world";
 
+}
+
+function newtest(){
+    
+    echo "new test";
 }
 
 
