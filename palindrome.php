@@ -15,6 +15,21 @@ while(1){
 
             echo "hello world";
         }
+        
+        if($length1==1){
+
+            echo "hello world";
+        } 
+        
+        if($length1==1){
+
+            echo "hello world";
+        }
+        
+        if($length1==1){
+
+            echo "hello world";
+        }
     if($string[$length]==''){
        break;
     }
