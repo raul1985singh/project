@@ -1,7 +1,7 @@
 <?php
 $string = 'nitin';
 $flag= 0;
-
+ 
 function strLength($string){
 $length=0;
 $lenth1=0;
