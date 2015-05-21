@@ -1,11 +1,6 @@
 <?php
-
 $string = 'nitin';
-
-
 $flag= 0;
-
-
 
 function strLength($string){
 $length=0;
@@ -52,9 +47,6 @@ function newtest(){
     
     echo "new test";
 }
-
-
-
 
 //echo"<br/><br/>length:-".strLength($string);
 
