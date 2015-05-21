@@ -1,6 +1,7 @@
 <?php
 $string = 'nitin';
 $flag= 0;
+$new_variable = "hello";
 
 function strLength($string){
 $length=0;
