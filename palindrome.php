@@ -10,6 +10,22 @@ while(1){
         if($length1==1){
 
             echo "hello world";
+			echo "bye world";
+        }
+        
+        if($length1==1){
+
+            echo "hello world";
+        } 
+        
+        if($length1==1){
+
+            echo "hello world";
+        }
+        
+        if($length1==1){
+
+            echo "hello world";
         }
         
         if($length1==1){
