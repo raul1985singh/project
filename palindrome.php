@@ -27,6 +27,7 @@ while(1){
             echo "hello world";
         }
     if($string[$length]==''){
+	   echo "new test";
        break;
     }
 
