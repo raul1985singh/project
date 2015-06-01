@@ -1,5 +1,5 @@
 <?php
-$string = 'nitin';
+$string = 'akash';
 $flag= 0;
 $new_variable = "hello";
 
