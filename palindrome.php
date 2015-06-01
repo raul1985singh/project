@@ -13,6 +13,7 @@ $length=0;
 while(1){
 
     if($string[$length]==''){
+	   echo "new test";
        break;
     }
     else{
