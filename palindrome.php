@@ -1,11 +1,7 @@
 <?php
-
 $string = 'nitin';
-
-
 $flag= 0;
-
-
+$new_variable = "hello";
 
 function strLength($string){
 $length=0;
@@ -14,11 +10,33 @@ while(1){
         if($length1==1){
 
             echo "hello world";
+			echo "bye world";
+        }
+        
+        if($length1==1){
+
+            echo "hello world";
+        } 
+        
+        if($length1==1){
+
+            echo "hello world";
+        }
+        
+        if($length1==1){
+
+            echo "hello world";
         }
     if($string[$length]==''){
        break;
     }
+
+    else if($string[$length]=='2'){
+       $length++;
+       continue;
+    }
     else if($string[$length]!=''){
+
        $length++;
        continue;
     }
@@ -31,9 +49,6 @@ function newtest(){
     
     echo "new test";
 }
-
-
-
 
 //echo"<br/><br/>length:-".strLength($string);
 
